@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: darkred;
+}
+
+header{
+    color: gold;
+    font-style: normal;
+    font-size: xx-large;
+    font-weight: normal;
+    font-family: Impact, sans-serif;
+    background-color:darkred;
+    height: 80px;
+    padding: 20px;
+}
+
+h2{
+    padding: 20px;
+    margin: 20px;
+    background-color: indigo;
+    color: gold;
+    font-style: normal;
+    font-size: x-large;
+    font-weight: normal;
+    font-family: impact, sans-serif;
+}
+
+p{
+    padding: 10px;
+    margin: 30px;
+    color:black;
+    background-color: aliceblue;
+    font-style: normal;
+    font-size: medium;
+    font-weight: normal;
+    font-family: verdana, sans-serif;
+}
+
+h3{
+    text-shadow: 1px 1px 1px #111;
+    color: blueviolet;
+    margin: 0 0 50px 20px;
+    padding: 300px;
+    text-align: center;
+    font-style: normal;
+    font-size: xx-large;
+    font-weight: normal;
+    font-family: impact, sans-serif;
+
+}
+
+#div_esquerda{
+    background-color: darkred;
+    min-height: 200px;
+    width: 50%;
+    float: left;
+}
+
+#div_direita{
+    background-color:darkred ;
+    min-height: 200px;
+    width: 50%;
+    float: right;
+}
+
+#div_principal{
+    background-image: url('PMI.jpg');
+    background-size: 100%;
+    min-height: 850px;
+    width: 100%;
+}
+
+footer{
+    color: ghostwhite;
+    clear: both;
+    background-color:indigo;
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    width: 10px;
+    height: 10px;
+    margin: auto;
+}
